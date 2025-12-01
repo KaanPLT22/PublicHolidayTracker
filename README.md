@@ -25,7 +25,6 @@ Kullanıcılar, tatil listesini yıl bazında görüntüleyebilir, tarihe göre 
    - **İsme Göre Arama:** Kullanıcı bir tatil ismi girer ve eşleşen tatiller listelenir.  
    - **Tüm Tatilleri Göster:** 2023–2025 yıllarındaki tüm tatiller sıralanır.  
 4. Kullanıcı menüden çıkış yapana kadar uygulama döngü içinde çalışmaya devam eder.  
-5. Tüm işlemler bellek içinde yapıldığı için uygulama kapandığında veri kaybolur.  
 
 ---
 
